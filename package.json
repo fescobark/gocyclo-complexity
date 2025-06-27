@@ -2,7 +2,7 @@
   "name": "gocyclo-complexity",
   "displayName": "GoCyclo Complexity",
   "description": "Muestra complejidad ciclomática usando gocyclo en archivos Go",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/fescobark/gocyclo-complexity.git"
