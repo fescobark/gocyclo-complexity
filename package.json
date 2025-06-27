@@ -2,11 +2,15 @@
   "name": "gocyclo-complexity",
   "displayName": "GoCyclo Complexity",
   "description": "Muestra complejidad ciclomática usando gocyclo en archivos Go",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fescobark/gocyclo-complexity.git"
+  },
   "engines": {
     "vscode": "^1.101.0"
   },
-  "publisher": "francisco-escobar-klagges",
+  "publisher": "francisco-javier-escobar-klagges",
   "categories": [
     "Other"
   ],
