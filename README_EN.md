@@ -1,6 +1,6 @@
 # GoCyclo Complexity 🔥
 
-[![VSCode](https://img.shields.io/visual-studio-marketplace/v/gocyclo-complexity.svg?label=VSCode)](https://marketplace.visualstudio.com/)
+[![Install from VS Code Marketplace](https://img.shields.io/badge/vscode-install-blue.svg?logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=francisco-javier-escobar-klagges.gocyclo-complexity)
 [![Go](https://img.shields.io/badge/go-%5E1.18-blue)](https://golang.org)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
